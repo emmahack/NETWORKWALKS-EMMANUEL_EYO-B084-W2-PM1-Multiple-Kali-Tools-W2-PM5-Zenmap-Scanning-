@@ -11,3 +11,4 @@ The scan identified two live hosts on the local subnet. The collected web and DN
 `Nmap` · `Zenmap` · `WHOIS` · `WhatWeb` · `Nslookup` · `Curl` · `WAFW00F` · `DNSRecon`
 
 This work was conducted as part of an internship learning exercise. Network scanning should only be performed on systems and networks you own or have explicit permission to assess.
+The full pentesting report is available as a PDF: https://github.com/emmahack/NETWORKWALKS-EMMANUEL_EYO-B084-W2-PM1-Multiple-Kali-Tools-W2-PM5-Zenmap-Scanning-/blob/main/Week%202%20Pentesting%20Report.pdf
